@@ -22,4 +22,4 @@ source = "git+https://github.com/osiewicz/self-referencing-crate.git?tag=stable#
 [[package]]
 name = "implementation"
 version = "0.1.0"
-source = "git+https://github.com/osiewicz/self-referencing-crate.git#9f22795b77bf3da3420b67bfed481b942b13a405"
+source = "git+https://github.com/osiewicz/self-referencing-crate.git#f9b63182aa4d8a5a2df1edb69712d8991a544745"
