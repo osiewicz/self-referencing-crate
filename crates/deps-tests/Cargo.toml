@@ -6,5 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-old_client = { git = "git@github.com:osiewicz/self-referencing-crate.git", rev = "HEAD~1", package = "implementation" }
-new_client = { git = "git@github.com:osiewicz/self-referencing-crate.git", rev = "HEAD", package = "implementation" }
+old_client = { git = "https://github.com/osiewicz/self-referencing-crate.git", rev = "HEAD~1", package = "implementation" }
+new_client = { git = "https://github.com/osiewicz/self-referencing-crate.git", rev = "HEAD", package = "implementation" }
